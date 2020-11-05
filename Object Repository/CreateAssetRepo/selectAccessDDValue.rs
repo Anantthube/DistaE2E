@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectAccessDDValue</name>
+   <tag></tag>
+   <elementGuidId>62676997-a18a-4698-bf0c-b60a8291ba39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ui-id-1&quot;)/span[@class=&quot;fancytree-node fancytree-focused fancytree-exp-n fancytree-ico-c fancytree-clone&quot;]/span[@class=&quot;fancytree-checkbox fancytree-radio fa fa-circle-thin&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='5534289622990848_anchor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancytree-checkbox fancytree-radio fa fa-circle-thin</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)/span[@class=&quot;fancytree-node fancytree-focused fancytree-exp-n fancytree-ico-c fancytree-clone&quot;]/span[@class=&quot;fancytree-checkbox fancytree-radio fa fa-circle-thin&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ui-id-1']/span/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/ul/li/ul/li/ul/li/ul/li/ul/li/span/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Dish Login Test Suites</description>
+   <name>AppLoginTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>anant.thube@mediaagility.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3533cd2d-8991-4284-a2a0-35fdd29d518d</testSuiteGuid>
+   <testCaseLink>
+      <guid>400486df-d6cb-4db8-a1d2-1d51a9a75b5c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/com.dista.Login.test/LoginTest</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>de585710-5c9d-41cc-b7f6-56fefa50393b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e929ece6-3b48-4bf5-b84d-cd397d903b65</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8fccb627-c9b3-4773-8bfe-9bc17a6b69c4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e38ef15f-4605-4741-8530-0d9e34fceb8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/com.dista.AssingJob.test/VerifyStateAndAssign</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a71f3d8a-aa83-4b30-8d4f-41bbeb4e8a1b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

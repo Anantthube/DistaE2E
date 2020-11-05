@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyStateAndAssign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cb3805f-5357-4ff7-9ffe-72882ce179f9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('TestData/DishCreateJobData').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>a71f3d8a-aa83-4b30-8d4f-41bbeb4e8a1b</id>
+      <masked>false</masked>
+      <name>JobCode</name>
+   </variable>
+</TestCaseEntity>

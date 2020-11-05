@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AppJobStateChangeTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3c014a5-ff74-488d-81e7-7da89114f208</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b132092f-e5e9-47e8-a967-7585779c959a</id>
+      <masked>false</masked>
+      <name>jobId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>735c4a93-621b-4423-9473-bb17b2a060db</id>
+      <masked>false</masked>
+      <name>currentJobState</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3b8a9f8-e997-47f8-9146-c82619b1bf0f</id>
+      <masked>false</masked>
+      <name>startJob</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddceb9b8-3f84-4216-91fe-b850853318a9</id>
+      <masked>false</masked>
+      <name>arrivingJob</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3fe95b9-d20e-4af4-b382-fef9e07ce063</id>
+      <masked>false</masked>
+      <name>workingJob</name>
+   </variable>
+</TestCaseEntity>
